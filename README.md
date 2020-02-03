@@ -5,5 +5,4 @@ Necessary input data is a file with the spatial features of study area (e.g. blo
 The methods that will be implemented are the KDE (Kernel Density Estimation), the Local Moran's I and the Spatiotemporal Autoregressive Moving Average (starma).
 The selected crime data are included in this repository; one for the train period of one year ("FINAL_DESC") and another one for the "predictive" / test period of one month ("FINAL_DESC_PRED"). However, the above mentioned methods will be first tested on a sample of data and more particularly by using 3 months to predict the fourth month in an area of 30 blocks.
 
-![](https://github.com/alkiviadisrentzelos/thesis1/commit/524c1dd82ebe4174fd51c76e6d4718f376d7acf7#commitcomment-37096114)
 
